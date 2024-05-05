@@ -1,0 +1,228 @@
+body{
+    font-family: "Alegreya SC", serif;
+    line-height: 1.86em;
+    font-weight: 400;
+}
+.contanier{
+    max-width: 100%;
+    padding-right: 0.9375rem;
+    padding-left: 0.9375rem;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url(https://www.engage.veented.com/bakery/wp-content/uploads/sites/27/2017/04/drew-coffman-1872.jpg);
+    background-position: center center;
+    width: 98%;
+    height: 800px;
+    margin-bottom: 50px; 
+}
+div .item{
+    padding-top:200px ;
+}
+.p{
+    text-align: center;
+    width: 100%;
+    color: aliceblue;
+}
+.p1{
+    font-size: 22px;
+}
+.p2{
+    font-size: 65px;
+}
+.p3{
+    font-size: 22px;
+    width: 650px;
+    padding-left: 400px;
+    padding-bottom: 50px;
+}
+.battom{
+    display: inline-block;
+}
+.a{
+    padding: 15px 28px;
+    text-align: center;
+    text-decoration: none;
+}
+.a2{
+    background-color: peru;
+    border: 2px solid peru;
+    color: aliceblue;
+    margin-left: 600px;
+    border-radius: 4px;
+}
+.a3{
+    color: aliceblue;
+    border: 2px solid aliceblue;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+.img{
+   width: 500px;
+   height: 500px;
+}
+
+.parent{
+   background-color: white;
+   padding: 10px;
+    
+}
+.child{
+    display: inline-block;
+    width: 500px;
+    vertical-align: text-top;
+    padding: 30px;
+}
+.child2{
+    display: inline-block;
+    padding: 30px;
+    width: 500px;
+    vertical-align: text-top;
+
+}
+.bread{
+    width: 600px;
+    height: 400px;
+    margin-left: 120px;
+}
+.parent2{
+    background-color: aliceblue;
+    width: 100%;
+    margin: 0;
+}
+.lb{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.l{
+    margin-left: 60px;
+}
+.parent3{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.par{
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+div .symbols{
+    float: left;
+    margin-left: 65px;
+    margin-bottom: 30px;
+}
+.symbol{
+    width: 400px;
+    height: 300px;
+}
+.clear-fix{
+    clear: both;
+}
+div .symbolss{
+    float: left;
+    margin-left: 65px;
+}
+.para{
+    width: 400px;
+    text-align: center;
+}
+.contact{
+    float: left;
+    background-color: aliceblue;
+    margin-bottom: 70px;
+
+}
+.parag{
+    width: 600px;
+    margin-left: 100px;
+}
+.map{
+    width: 700px;
+    height: 528px;
+    margin-left: 50px;
+}
+.leaf{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid aliceblue;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.icon{
+    display: inline-block;
+}
+.leav{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid aliceblue;
+    margin-right: 10px;
+    vertical-align: middle;
+    margin-left: 100px;
+
+}
+.var{
+    padding-left: 110px;
+}
+.color{
+    background-color: chocolate;
+}
+.footer{
+    background-color:saddlebrown;   
+}
+.f1{
+    float: left;
+    margin-left: 50px;
+}
+.har{
+    width: 350px;
+}
+.img1{
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.content{
+    margin-left: 10px;
+}
+.har1{
+    margin-bottom: -5px;
+    margin-top: -5px;
+}
+.har2{
+    width: 320px;
+}
+.hr3{
+    width: 320px;
+}
+.hr2{
+    width: 250px;
+}
+.hr1{
+    width: 300px;
+}
+.end{
+    background-color: peru;
+}
+.bakery-light-1{
+    padding-left: 35%;
+    padding-top: 70px;
+}
+.copy{
+    text-align: center;
+}
+.l-icons{
+    display: inline-block;
+    padding-left: 42%;
+    margin-bottom: 30px;
+}
+.social{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid aliceblue;
+    margin-right: 10px;
+    vertical-align: middle;
+    background-color: chocolate;
+}
